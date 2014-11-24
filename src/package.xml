@@ -12,6 +12,7 @@
         <members>payrollinvoice__c.INVname1__c</members>
         <members>payrollinvoice__c.INVname__c</members>
         <members>payrollinvoice__c.INVname2__c</members>
+        <members>payrollinvoice__c.INVname3__c</members>
         <name>CustomField</name>
     </types>
     <types>
